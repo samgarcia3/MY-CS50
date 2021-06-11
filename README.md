@@ -4,7 +4,7 @@
 
 <br>
 
-All code used for CS50 EdX can be found in the CS50 IDE. The code used for this course is as follows:
+All code used for CS50 EdX can be found in the CS50 IDE.
 - C
 - Python
 - SQL
