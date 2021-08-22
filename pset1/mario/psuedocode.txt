@@ -1,0 +1,5 @@
+1.Prompt user for height
+2. If height is less than 1 or greater than 8 (or not an integer atl all), go back on step
+3. Iterate from 1 through height:
+    1. On iteraton i, print i hashes and then a newline
+

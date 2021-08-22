@@ -1,0 +1,10 @@
+1. promt user for CC number.
+2. calculate Luhn Algorithm ('checksum').
+3. check values by using a conditional If Else staement:
+    * If 15 digits long and starts with (34 || 27) - American Express (true).
+    * If 16 digits long and starts with (51,52,53,54, || 55) - Mastercard (true).
+    * If 13 || 16 digits long and starts with (4) - Visa (true).
+4. If return value for any of these statements is (false):
+    * reprompt user for Number - if user inputs characters (i.e -, _, #).
+    * return INVALID if number consists of numerals but does not meet CC criteria.
+5. If true - print AMEX, VISA, MASTERCARD or INVALID

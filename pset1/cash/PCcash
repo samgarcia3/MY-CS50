@@ -1,0 +1,15 @@
+1. Ask user for a positive floating value
+2. If user fails to provide a positive floating value reprompt user for a valid amount
+3. Multiply positive float *100 to change dollar values into cents - round function in math.h
+4. if, else if , else if, else chain or Loop to divide and tally number of times variable c is divided
+5. divide user input(float) by 25 while number is >= than 25
+6. divide remainder by 10 while number is >= 10
+7. divide remainder by 5 while number is >= 5
+8. Computing coins 
+    keep track of remaining change owed
+    keep track of how many coins used
+9. while loops?
+    While we can use quarters, add a quarter.
+    While we can use dimes, add a dime.
+    etc..
+10.print the result (printf("%i\n", coins); implenent variable i to track number of coins used.
