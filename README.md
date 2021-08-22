@@ -1,5 +1,5 @@
 # Harvard CS50 - Introduction to Computer Science 
-## Taught by the incredible David Malan!
+## Taught by David Malan
 **Check out this brilliant course on EdX!**
 
 <br>
